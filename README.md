@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexVilla92
-- 👀 I’m interested in Backend
-- 🌱 I’m currently learning front tools and devoops
+- 👀 I’m interested in AI Engineering
+- 🌱 I’m currently learning Architecture RAG, N8N, Langchain & Langgraph
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
